@@ -21,7 +21,7 @@ Otherwise, you can download the source package and then execute in the folder:
 
 `pip install .`
 
-In the more recent version of Debian an protection regarding haveing libraries from `pip` and `apt` has been introduce. To fore a `pip` installation use the commend below. 
+In the more recent version of Debian (12 aka Bookworm) an protection regarding conflicting libraries (`pip` and `apt`) has been introduce. To fore a `pip` installation use the command below. 
 
 `pip install getmyancestors --break-system-packages`
 
