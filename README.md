@@ -7,7 +7,7 @@ This program is now in production phase, but bugs might still be present. Featur
 
 The project is maintained at https://github.com/Linekio/getmyancestors. Visit here for the latest version and more information.
 
-This script requires python3 and the modules indicated in the requirements.txt file. To install the modules, run in your terminal:
+This script requires python3 and the modules indicated in the requirements.txt file.
 
 
 Installation
